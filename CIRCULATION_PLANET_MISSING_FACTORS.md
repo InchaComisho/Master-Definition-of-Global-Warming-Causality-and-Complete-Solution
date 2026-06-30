@@ -8,6 +8,10 @@ Top pages: [README_ja.md](README_ja.md) | [README.md](README.md) | [README_ar.md
 
 Related documents: [Circulation Completeness Addendum](CIRCULATION_COMPLETENESS_ADDENDUM.md) | [Limitation of a CO₂-Only Climate Diagnosis](CO2_ONLY_DIAGNOSIS_LIMITATION.md) | [Historical Causal Chain](HISTORICAL_CAUSAL_CHAIN.md)
 
+## Diagram
+
+![Circulation Planet Model: Often-Missed Supplementary Factors](images/Master-Definition-of-Global-Warming-EN2.png)
+
 ---
 
 ## Overview
