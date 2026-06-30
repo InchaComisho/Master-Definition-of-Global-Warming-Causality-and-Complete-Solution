@@ -4,6 +4,10 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+## الرسم التوضيحي
+
+![تعريف البنية السببية للاحترار العالمي والحل الكامل](images/Master-Definition-of-Global-Warming-AR.png)
+
 ---
 
 ## نظرة عامة

@@ -4,6 +4,10 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+## Diagram
+
+![Definition of Global Warming Causality and the Complete Solution](images/Master-Definition-of-Global-Warming-EN.png)
+
 ---
 
 ## Overview

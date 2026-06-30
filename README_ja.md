@@ -4,6 +4,10 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+## 図解
+
+![温暖化因果構造と完全解決策の定義 図解](images/Master-Definition-of-Global-Warming-JP.png)
+
 ---
 
 ## 概要
