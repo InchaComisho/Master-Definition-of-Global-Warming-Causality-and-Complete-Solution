@@ -8,6 +8,10 @@
 
 وثائق مرتبطة: [ملحق اكتمال التعريف عبر مفهوم الدوران](CIRCULATION_COMPLETENESS_ADDENDUM_ar.md) | [حدود تشخيص CO₂ وحده](CO2_ONLY_DIAGNOSIS_LIMITATION_ar.md) | [السلسلة السببية التاريخية](HISTORICAL_CAUSAL_CHAIN_ar.md)
 
+## الرسم التوضيحي
+
+![نموذج الكوكب الدائري: عوامل تكميلية غالبًا ما تُغفل](images/Master-Definition-of-Global-Warming-AR2.png)
+
 ---
 
 ## نظرة عامة
