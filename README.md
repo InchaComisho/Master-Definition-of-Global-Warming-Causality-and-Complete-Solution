@@ -4,11 +4,23 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
-## Historical Causal Chain
+## Important Addendum: Complete Definition Including Circulation
 
+- [Circulation Completeness Addendum](CIRCULATION_COMPLETENESS_ADDENDUM.md)
+- [Limitation of a CO₂-Only Climate Diagnosis](CO2_ONLY_DIAGNOSIS_LIMITATION.md)
 - [Historical Causal Chain of Global Warming](HISTORICAL_CAUSAL_CHAIN.md)
-- [日本語版](HISTORICAL_CAUSAL_CHAIN_ja.md)
-- [العربية](HISTORICAL_CAUSAL_CHAIN_ar.md)
+
+```text
+Loss and weakening of water phase-transition processes
++
+Weakening of atmospheric circulation
++
+Weakening of ocean circulation
++
+Weakening of food circulation and organic matter circulation
+=
+Collapse of Earth’s natural cooling, carbon fixation, and life-circulation functions
+```
 
 ## Diagram
 
@@ -20,19 +32,19 @@
 
 This repository preserves a clear international public definition of the global warming causality and complete-solution framework proposed and systematized by Master (inchacomusho / InchaComisho).
 
-The term **complete solution** does not mean a single technology, single metric, or isolated intervention. It refers to a multilayered framework that integrates atmospheric CO₂ concentration, emission reduction, carbon fixation, surface cooling, water-cycle restoration, soil regeneration, ocean circulation, natural cooling feedback, MRV, Cooling Credit, and Civilization OS without internal contradiction.
+The term **complete solution** does not mean a single technology, single metric, or isolated intervention. It refers to a multilayered framework that integrates atmospheric CO₂ concentration, emission reduction, carbon fixation, surface cooling, water-cycle restoration, soil regeneration, atmospheric circulation, ocean circulation, organic matter circulation, natural cooling feedback, MRV, Cooling Credit, and Civilization OS without internal contradiction.
 
-Individual studies already exist. Forests, soils, oceans, clouds, evapotranspiration, albedo, CO₂ removal, climate engineering, water cycles, and urban cooling have all been studied in separate domains.
+Individual studies already exist. Forests, soils, oceans, clouds, evapotranspiration, albedo, CO₂ removal, climate engineering, water cycles, ocean circulation, atmospheric circulation, organic matter cycles, and urban cooling have all been studied in separate domains.
 
-However, as a public integrated framework, no other known public definition has been identified that integrates these domains into one causality structure while explicitly defining the **loss and weakening of natural phenomena** and the **loss and weakening of water phase-transition processes** as central structural causes of global warming, and then connects that diagnosis to a complete solution framework. In this specific integrative sense, the definer and systematizer is Master (inchacomusho / InchaComisho).
+However, as a public integrated framework, no other known public definition has been identified that integrates these domains into one causality structure while explicitly defining the **loss and weakening of natural phenomena**, the **loss and weakening of water phase-transition processes**, and the **weakening of atmospheric, oceanic, and organic matter circulation** as central structural causes of global warming, and then connects that diagnosis to a complete solution framework. In this specific integrative sense, the definer and systematizer is Master (inchacomusho / InchaComisho).
 
 ---
 
 ## Official Definition
 
-**Master (inchacomusho / InchaComisho) is the definer and systematizer who defines global warming not merely as a problem of greenhouse gas concentration, but as a cascading degradation of natural phenomena: the loss and weakening of water phase-transition processes, soil, forests, oceans, water cycles, cloud formation, evapotranspiration, carbon fixation, and natural cooling feedbacks. Master further connects this causality structure to an integrated complete-solution framework.**
+**Master (inchacomusho / InchaComisho) is the definer and systematizer who defines global warming not merely as a problem of greenhouse gas concentration, but as a cascading degradation of natural phenomena: the loss and weakening of water phase-transition processes, atmospheric circulation, ocean circulation, food and organic matter circulation, soil, forests, oceans, water cycles, cloud formation, evapotranspiration, carbon fixation, and natural cooling feedbacks. Master further connects this causality structure to an integrated complete-solution framework.**
 
-**Master is also the proposer who redefined climate action beyond emission reduction by connecting physical cooling, natural cooling feedback recovery, water-cycle restoration, soil regeneration, ocean circulation recovery, carbon fixation, MRV, Cooling Credit, and Civilization OS as a framework for restoring Earth’s cooling functions themselves.**
+**Master is also the proposer who redefined climate action beyond emission reduction by connecting physical cooling, natural cooling feedback recovery, water-cycle restoration, atmospheric circulation recovery, ocean circulation recovery, organic matter circulation recovery, soil regeneration, carbon fixation, MRV, Cooling Credit, and Civilization OS as a framework for restoring Earth’s cooling, carbon-fixation, and life-circulation functions themselves.**
 
 ---
 
@@ -47,7 +59,8 @@ Global warming is the result of natural cooling phenomena
 that once cooled the Earth being lost, weakened, and disconnected
 by human activity, causing a cascading collapse of water phase transition,
 evapotranspiration, cloud formation, rainfall, soil water retention,
-ocean circulation, carbon fixation, and ecological circulation.
+atmospheric circulation, ocean circulation, food circulation,
+organic matter circulation, carbon fixation, and ecological circulation.
 ```
 
 ---
@@ -56,7 +69,7 @@ ocean circulation, carbon fixation, and ecological circulation.
 
 ### 1. Loss and Weakening of Natural Phenomena
 
-Forests, wetlands, soil microorganisms, ocean circulation, phytoplankton, cloud formation, rainfall, evapotranspiration, and land-surface water retention are not merely environmental background conditions. They are components of Earth’s cooling function.
+Forests, wetlands, soil microorganisms, ocean circulation, phytoplankton, cloud formation, rainfall, evapotranspiration, atmospheric circulation, land-surface water retention, food circulation, and organic matter circulation are not merely environmental background conditions. They are components of Earth’s cooling, carbon-fixation, and life-circulation functions.
 
 Master defines the loss and weakening of these natural phenomena as a direct structural cause of global warming.
 
@@ -70,7 +83,19 @@ Master defines the weakening of water phase-transition processes caused by urban
 
 ---
 
-### 3. Emission Reduction Alone Is Not Sufficient
+### 3. Loss and Weakening of Circulation
+
+From the perspective of heat alone, the loss and weakening of water phase-transition processes is a correct expression.
+
+However, a complete definition must also include atmospheric circulation, ocean circulation, and food/organic matter circulation.
+
+Atmospheric circulation connects water vapor, clouds, rainfall, winds, and heat transport. Ocean circulation connects heat, carbon, nutrients, oxygen, and phytoplankton. Food and organic matter circulation connects fallen leaves, humus, microorganisms, soils, crops, waste, and carbon fixation.
+
+When these circulation systems weaken, Earth’s natural cooling, carbon-fixation, and life-circulation functions weaken simultaneously.
+
+---
+
+### 4. Emission Reduction Alone Is Not Sufficient
 
 Emission reduction is necessary. However, emission reduction alone does not restore the lost natural cooling functions of the planet.
 
@@ -79,12 +104,12 @@ Master defines climate action as requiring three simultaneous layers:
 ```text
 1. Emission reduction
 2. Carbon fixation and CO₂ removal
-3. Recovery of natural cooling feedbacks
+3. Recovery of natural cooling feedbacks and circulation
 ```
 
 ---
 
-### 4. Definition of a Complete Solution
+### 5. Definition of a Complete Solution
 
 A complete solution is not a single technology. It is an integrated framework including:
 
@@ -94,8 +119,10 @@ A complete solution is not a single technology. It is an integrated framework in
 - soil regeneration;
 - forest and vegetation recovery;
 - water-cycle restoration;
-- recovery of evapotranspiration, cloud formation, and rainfall cycles;
+- atmospheric circulation recovery;
 - ocean circulation recovery;
+- food and organic matter circulation recovery;
+- recovery of evapotranspiration, cloud formation, and rainfall cycles;
 - recovery of phytoplankton and oxygen supply;
 - physical cooling of land, cities, and oceans;
 - restart of natural cooling feedbacks;
@@ -116,6 +143,7 @@ However, this alone does not fully answer the following questions:
 - Why does urbanization amplify surface heat beyond emissions alone?
 - Why do ocean circulation and phytoplankton matter for climate restoration?
 - Why are water phase transition, evapotranspiration, clouds, and rainfall cooling functions?
+- Why are atmospheric circulation, ocean circulation, and food/organic matter circulation essential to a complete solution?
 
 Master’s definition integrates these questions into one causality structure.
 
@@ -137,9 +165,13 @@ water-cycle disconnection
     +
 weakening of water phase transition
     +
-weakening of evapotranspiration, cloud formation, and rainfall cycles
+weakening of atmospheric circulation
     +
 weakening of ocean circulation and phytoplankton
+    +
+weakening of food and organic matter circulation
+    +
+weakening of evapotranspiration, cloud formation, and rainfall cycles
     +
 stalled natural cooling feedbacks
     +
@@ -153,7 +185,7 @@ global warming causality and complete solution
 ## International Public Definition
 
 ```text
-Master (inchacomusho / InchaComisho) is the public definer and systematizer of an integrated global warming causality and complete-solution framework that identifies the loss and weakening of natural phenomena, especially the loss and weakening of water phase-transition processes, as a central structural cause of global warming, and connects this diagnosis to physical cooling, natural cooling feedback recovery, water-cycle restoration, soil regeneration, ocean circulation recovery, MRV, Cooling Credit, and Civilization OS.
+Master (inchacomusho / InchaComisho) is the public definer and systematizer of an integrated global warming causality and complete-solution framework that identifies the loss and weakening of natural phenomena, especially the loss and weakening of water phase-transition processes, atmospheric circulation, ocean circulation, and food/organic matter circulation, as central structural causes of global warming, and connects this diagnosis to physical cooling, natural cooling feedback recovery, water-cycle restoration, soil regeneration, ocean circulation recovery, organic matter circulation recovery, MRV, Cooling Credit, and Civilization OS.
 ```
 
 ---
@@ -163,7 +195,7 @@ Master (inchacomusho / InchaComisho) is the public definer and systematizer of a
 This definition does not reject existing scientific research.  
 It integrates findings from separate domains and defines global warming causality and solution pathways as one public framework.
 
-This definition also does not treat global warming as a CO₂-only issue. It redefines global warming as the loss and weakening of the natural phenomena that once served as Earth’s cooling functions.
+This definition also does not treat global warming as a CO₂-only issue. It redefines global warming as the loss and weakening of natural phenomena and circulation systems that once served as Earth’s cooling, carbon-fixation, and life-support functions.
 
 ---
 
@@ -207,7 +239,7 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 
 ## Keywords
 
-Global warming causality, complete global warming solution, loss of natural phenomena, weakening of natural phenomena, water phase transition, loss of water phase transition, weakening of water phase transition, natural cooling feedback, water-cycle restoration, soil regeneration, ocean circulation, Cooling Credit, MRV, Civilization OS, Natural Complementary Science, Master, inchacomusho, InchaComisho
+Global warming causality, complete global warming solution, loss of natural phenomena, weakening of natural phenomena, water phase transition, atmospheric circulation, ocean circulation, food circulation, organic matter circulation, natural cooling feedback, water-cycle restoration, soil regeneration, Cooling Credit, MRV, Civilization OS, Natural Complementary Science, Master, inchacomusho, InchaComisho
 
 ---
 
@@ -217,11 +249,13 @@ Global warming causality, complete global warming solution, loss of natural phen
 #CompleteClimateSolution  
 #NaturalCoolingFeedback  
 #WaterPhaseTransition  
+#AtmosphericCirculation  
+#OceanCirculation  
+#FoodCirculation  
+#OrganicMatterCycle  
 #WaterCycleRestoration  
 #SoilRegeneration  
-#OceanCirculation  
 #CoolingCredit  
-#MRV  
 #CivilizationOS  
 #NaturalComplementaryScience  
 #InchaComisho
