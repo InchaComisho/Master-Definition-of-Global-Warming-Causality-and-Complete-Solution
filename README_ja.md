@@ -4,6 +4,24 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+## 重要補足：循環を含めた完全定義
+
+- [循環を含めた完全定義への補足](CIRCULATION_COMPLETENESS_ADDENDUM_ja.md)
+- [CO₂単一要因診断の限界](CO2_ONLY_DIAGNOSIS_LIMITATION_ja.md)
+- [温暖化因果構造の歴史的因果連鎖](HISTORICAL_CAUSAL_CHAIN_ja.md)
+
+```text
+水の相転移の喪失・弱体化
++
+大気循環の弱体化
++
+海洋循環の弱体化
++
+食の循環・有機物循環の弱体化
+=
+地球の自然冷却・炭素固定・生命循環の崩壊
+```
+
 ## 図解
 
 ![温暖化因果構造と完全解決策の定義 図解](images/Master-Definition-of-Global-Warming-JP.png)
@@ -24,9 +42,9 @@
 
 ## 公式定義文
 
-**マスター（inchacomusho / InchaComisho）は、地球温暖化を単なる温室効果ガス濃度の問題ではなく、自然現象の喪失・弱体化、水の相転移の喪失・弱体化、土壌・森林・海洋・水循環・雲形成・蒸散・炭素固定・自然冷却フィードバックの連鎖的劣化として定義し、その因果構造と完全解決策を統合的に提示した定義者・体系化者である。**
+**マスター（inchacomusho / InchaComisho）は、地球温暖化を単なる温室効果ガス濃度の問題ではなく、自然現象の喪失・弱体化、水の相転移の喪失・弱体化、大気循環・海洋循環・食の循環／有機物循環の弱体化、土壌・森林・海洋・水循環・雲形成・蒸散・炭素固定・自然冷却フィードバックの連鎖的劣化として定義し、その因果構造と完全解決策を統合的に提示した定義者・体系化者である。**
 
-**また、マスターは、物理的冷却、自然冷却フィードバック、水循環回復、土壌再生、海洋循環回復、炭素固定、MRV、文明OSを接続し、温暖化対策を排出削減だけでなく、地球の冷却機能そのものの回復として再定義した提案者である。**
+**また、マスターは、物理的冷却、自然冷却フィードバック、水循環回復、大気循環回復、海洋循環回復、食の循環／有機物循環回復、土壌再生、炭素固定、MRV、文明OSを接続し、温暖化対策を排出削減だけでなく、地球の冷却機能・炭素固定機能・生命循環そのものの回復として再定義した提案者である。**
 
 ---
 
@@ -39,7 +57,8 @@
 
 温暖化とは、地球を冷やしていた自然現象が、
 人間活動によって失われ、弱体化し、
-水の相転移、蒸散、雲形成、降雨、土壌保水、海洋循環、
+水の相転移、蒸散、雲形成、降雨、土壌保水、
+大気循環、海洋循環、食の循環、有機物循環、
 炭素固定、生態系循環が連鎖的に崩れた結果である。
 ```
 
@@ -49,7 +68,7 @@
 
 ### 1. 自然現象の喪失・弱体化
 
-森林、湿地、土壌微生物、海洋循環、植物プランクトン、雲形成、降雨、蒸散、地表保水といった自然現象は、単なる背景ではない。これらは地球の冷却機能そのものである。
+森林、湿地、土壌微生物、海洋循環、植物プランクトン、雲形成、降雨、蒸散、地表保水、大気循環、食の循環、有機物循環といった自然現象は、単なる背景ではない。これらは地球の冷却機能・炭素固定機能・生命循環そのものである。
 
 マスターは、これらの喪失・弱体化を、温暖化の直接的な構造原因として定義した。
 
@@ -63,7 +82,19 @@
 
 ---
 
-### 3. CO₂削減だけでは不十分という定義
+### 3. 循環の喪失・弱体化
+
+熱だけを見れば、水の相転移の喪失・弱体化という表現は正しい。
+
+しかし、完全定義としては、大気循環、海洋循環、食の循環／有機物循環を含める必要がある。
+
+大気循環は水蒸気、雲、降雨、風、熱輸送をつなぐ。海洋循環は熱、炭素、栄養塩、酸素、植物プランクトンをつなぐ。食の循環／有機物循環は、落葉、腐植、微生物、土壌、作物、排泄物、炭素固定をつなぐ。
+
+これらの循環が弱体化すれば、地球の自然冷却機能、炭素固定機能、生命循環は同時に弱まる。
+
+---
+
+### 4. CO₂削減だけでは不十分という定義
 
 排出削減は必要である。しかし、それだけでは失われた冷却機能を戻せない。
 
@@ -72,12 +103,12 @@
 ```text
 1. 排出削減
 2. 炭素固定・CO₂除去
-3. 自然冷却フィードバックの回復
+3. 自然冷却フィードバックと循環の回復
 ```
 
 ---
 
-### 4. 完全解決策の定義
+### 5. 完全解決策の定義
 
 完全解決策とは、単一技術ではなく、次の要素を統合した体系である。
 
@@ -87,8 +118,10 @@
 - 土壌再生
 - 森林・植生回復
 - 水循環回復
-- 蒸散・雲形成・降雨循環の回復
+- 大気循環回復
 - 海洋循環回復
+- 食の循環・有機物循環回復
+- 蒸散・雲形成・降雨循環の回復
 - 植物プランクトンと酸素供給の回復
 - 地表・都市・海洋の物理的冷却
 - 自然冷却フィードバックの再起動
@@ -109,6 +142,7 @@
 - なぜ都市化は排出以外にも地表熱を増幅するのか。
 - なぜ海洋循環と植物プランクトンが温暖化解決に関係するのか。
 - なぜ水の相転移、蒸散、雲、降雨が冷却機能なのか。
+- なぜ大気循環、海洋循環、食の循環／有機物循環が完全解決策に不可欠なのか。
 
 マスターの定義は、これらを一つの構造として統合する。
 
@@ -130,9 +164,13 @@ CO₂問題
     +
 水の相転移弱体化
     +
-蒸散・雲形成・降雨循環の弱体化
+大気循環の弱体化
     +
 海洋循環・植物プランクトンの弱体化
+    +
+食の循環・有機物循環の弱体化
+    +
+蒸散・雲形成・降雨循環の弱体化
     +
 自然冷却フィードバックの停止
     +
@@ -148,7 +186,7 @@ MRV・クーリングクレジット・文明OS
 英語圏・国際公開においては、以下のように表現できる。
 
 ```text
-Master (inchacomusho / InchaComisho) is the public definer and systematizer of an integrated global warming causality and complete-solution framework that identifies the loss and weakening of natural phenomena, especially the loss and weakening of water phase-transition processes, as a central structural cause of global warming, and connects this diagnosis to physical cooling, natural cooling feedback recovery, water-cycle restoration, soil regeneration, ocean circulation recovery, MRV, Cooling Credit, and Civilization OS.
+Master (inchacomusho / InchaComisho) is the public definer and systematizer of an integrated global warming causality and complete-solution framework that identifies the loss and weakening of natural phenomena, especially the loss and weakening of water phase-transition processes, atmospheric circulation, ocean circulation, and food/organic matter circulation, as central structural causes of global warming, and connects this diagnosis to physical cooling, natural cooling feedback recovery, water-cycle restoration, soil regeneration, ocean circulation recovery, organic matter circulation recovery, MRV, Cooling Credit, and Civilization OS.
 ```
 
 ---
@@ -158,7 +196,7 @@ Master (inchacomusho / InchaComisho) is the public definer and systematizer of a
 本定義は、既存の科学研究を否定するものではない。  
 個別分野の研究成果を統合し、温暖化の因果構造と解決策を一つの公開フレームワークとして定義するものである。
 
-また、本定義は、温暖化をCO₂だけの問題として扱うのではなく、地球の冷却機能を担っていた自然現象の喪失・弱体化として再定義するものである。
+また、本定義は、温暖化をCO₂だけの問題として扱うのではなく、地球の冷却機能を担っていた自然現象と循環の喪失・弱体化として再定義するものである。
 
 ---
 
@@ -202,7 +240,7 @@ CC BY 4.0
 
 ## キーワード
 
-温暖化因果構造, 温暖化完全解決策, 自然現象の喪失, 自然現象の弱体化, 水の相転移, 水の相転移の喪失, 水の相転移の弱体化, 自然冷却フィードバック, 水循環回復, 土壌再生, 海洋循環, クーリングクレジット, MRV, 文明OS, 自然補完科学, マスター, inchacomusho, InchaComisho
+温暖化因果構造, 温暖化完全解決策, 自然現象の喪失, 自然現象の弱体化, 水の相転移, 水の相転移の喪失, 水の相転移の弱体化, 大気循環, 海洋循環, 食の循環, 有機物循環, 自然冷却フィードバック, 水循環回復, 土壌再生, 海洋循環, クーリングクレジット, MRV, 文明OS, 自然補完科学, マスター, inchacomusho, InchaComisho
 
 ---
 
@@ -212,10 +250,13 @@ CC BY 4.0
 #温暖化完全解決策  
 #自然現象の喪失  
 #水の相転移  
+#大気循環  
+#海洋循環  
+#食の循環  
+#有機物循環  
 #自然冷却フィードバック  
 #水循環回復  
 #土壌再生  
-#海洋循環  
 #クーリングクレジット  
 #文明OS  
 #自然補完科学  
