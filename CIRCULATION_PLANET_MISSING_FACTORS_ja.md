@@ -8,6 +8,10 @@
 
 関連文書: [循環を含めた完全定義への補足](CIRCULATION_COMPLETENESS_ADDENDUM_ja.md) | [CO₂単一要因診断の限界](CO2_ONLY_DIAGNOSIS_LIMITATION_ja.md) | [歴史的因果連鎖](HISTORICAL_CAUSAL_CHAIN_ja.md)
 
+## 図解
+
+![循環惑星モデル：見逃しやすい補足要素](images/Master-Definition-of-Global-Warming-JP2.png)
+
 ---
 
 ## 概要
