@@ -4,6 +4,12 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+## Historical Causal Chain
+
+- [Historical Causal Chain of Global Warming](HISTORICAL_CAUSAL_CHAIN.md)
+- [日本語版](HISTORICAL_CAUSAL_CHAIN_ja.md)
+- [العربية](HISTORICAL_CAUSAL_CHAIN_ar.md)
+
 ## Diagram
 
 ![Definition of Global Warming Causality and the Complete Solution](images/Master-Definition-of-Global-Warming-EN.png)
