@@ -1,5 +1,7 @@
 # 温暖化因果構造と完全解決策の定義者：マスター公式定義
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Master Definition of Global Warming Causality and Complete Solution
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)

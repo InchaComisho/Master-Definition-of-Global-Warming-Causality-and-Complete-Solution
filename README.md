@@ -1,5 +1,7 @@
 # Master Definition of Global Warming Causality and Complete Solution
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Official Public Definition by Master / inchacomusho / InchaComisho
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
