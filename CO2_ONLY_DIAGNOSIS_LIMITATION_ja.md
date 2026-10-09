@@ -4,7 +4,7 @@
 
 [日本語](CO2_ONLY_DIAGNOSIS_LIMITATION_ja.md) | [English](CO2_ONLY_DIAGNOSIS_LIMITATION.md) | [العربية](CO2_ONLY_DIAGNOSIS_LIMITATION_ar.md)
 
-関連トップ: [README_ja.md](README_ja.md) | [README.md](README.md) | [README_ar.md](README_ar.md)
+関連トップ: [README_ja.md](README_ja.md) | [README.md](README_ja.md) | [README_ar.md](README_ar.md)
 
 関連文書: [温暖化因果構造の歴史的因果連鎖](HISTORICAL_CAUSAL_CHAIN_ja.md)
 

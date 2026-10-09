@@ -4,7 +4,7 @@
 
 [日本語](CIVILIZATION_OS_REWRITE_PROPOSAL_ja.md) | [English](CIVILIZATION_OS_REWRITE_PROPOSAL.md) | [العربية](CIVILIZATION_OS_REWRITE_PROPOSAL_ar.md)
 
-関連トップ: [README_ja.md](README_ja.md) | [README.md](README.md) | [README_ar.md](README_ar.md)
+関連トップ: [README_ja.md](README_ja.md) | [README.md](README_ja.md) | [README_ar.md](README_ar.md)
 
 関連文書: [循環を含めた完全定義への補足](CIRCULATION_COMPLETENESS_ADDENDUM_ja.md) | [循環惑星モデル：見逃しやすい補足要素](CIRCULATION_PLANET_MISSING_FACTORS_ja.md) | [CO₂単一要因診断の限界](CO2_ONLY_DIAGNOSIS_LIMITATION_ja.md)
 

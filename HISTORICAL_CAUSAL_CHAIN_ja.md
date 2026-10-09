@@ -4,7 +4,7 @@
 
 [日本語](HISTORICAL_CAUSAL_CHAIN_ja.md) | [English](HISTORICAL_CAUSAL_CHAIN.md) | [العربية](HISTORICAL_CAUSAL_CHAIN_ar.md)
 
-関連トップ: [README_ja.md](README_ja.md) | [README.md](README.md) | [README_ar.md](README_ar.md)
+関連トップ: [README_ja.md](README_ja.md) | [README.md](README_ja.md) | [README_ar.md](README_ar.md)
 
 ---
 

@@ -4,7 +4,7 @@
 
 [日本語](BUSINESS_MODEL_CIRCULATION_INDICATORS_ja.md) | [English](BUSINESS_MODEL_CIRCULATION_INDICATORS.md) | [العربية](BUSINESS_MODEL_CIRCULATION_INDICATORS_ar.md)
 
-関連トップ: [README_ja.md](README_ja.md) | [README.md](README.md) | [README_ar.md](README_ar.md)
+関連トップ: [README_ja.md](README_ja.md) | [README.md](README_ja.md) | [README_ar.md](README_ar.md)
 
 関連文書: [文明OS書き換え提案書](CIVILIZATION_OS_REWRITE_PROPOSAL_ja.md) | [循環惑星モデル：見逃しやすい補足要素](CIRCULATION_PLANET_MISSING_FACTORS_ja.md) | [循環を含めた完全定義への補足](CIRCULATION_COMPLETENESS_ADDENDUM_ja.md)
 
