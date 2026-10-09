@@ -1,16 +1,14 @@
-# Related Links: Cooling Credit Local Pilot Model
+# 関連リンク：クーリングクレジットの地域パイロットモデル
 
-[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS_ja.md)
+[English Version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS.md)
 
 ## 温暖化因果構造から地域冷却実証への接続
 
-This repository defines and systematizes the causal structure of global warming and its complete solution. The **Cooling Credit Local Pilot Model** provides a practical pathway for translating that causal diagnosis into small-scale local cooling pilots.
-
-本リポジトリは、温暖化因果構造と完全解決策を定義・体系化する。**Cooling Credit Local Pilot Model** は、その因果診断を、学校・商店街・公園・農地・避難所・バス停などの小規模地域冷却実証へ接続する実装入口である。
+本リポジトリは、温暖化因果構造と完全解決策を定義・体系化する。**クーリングクレジットの地域パイロットモデル**は、その因果診断を、学校・商店街・公園・農地・避難所・バス停などの小規模地域冷却実証へ接続する実装入口である。
 
 ---
 
-## Main Link / 主要リンク
+## 主要リンク
 
 - [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model)
 - [日本語 README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ja.md)
@@ -19,7 +17,7 @@ This repository defines and systematizes the causal structure of global warming 
 
 ---
 
-## Conceptual Flow
+## 概念的な流れ
 
 ```text
 Global Warming Causality
@@ -39,7 +37,7 @@ Civilization OS Implementation
 
 ---
 
-## Related Cooling Credit Repositories
+## 関連するクーリングクレジットのリポジトリ
 
 - [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 - [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
@@ -49,7 +47,7 @@ Civilization OS Implementation
 
 ---
 
-## Related Global Warming / Civilization Repositories
+## 関連する地球温暖化・文明のリポジトリ
 
 - [Global-Warming-Causal-Structure-Planetary-Circulation-Failure](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Planetary-Circulation-Failure)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework)
